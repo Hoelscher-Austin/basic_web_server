@@ -1,0 +1,5 @@
+2025-05-01	15:46:31	b6e29848-067b-443d-b05a-81480621dd12	/new-page.html	GET
+2025-05-01	15:46:31	36fd45e1-006f-467f-ad94-ed856bdf844c	/css/style.css	GET
+2025-05-01	15:46:31	8dbe10aa-1ecf-4058-82b7-2409bd2201ba	/img/img1.jpg	GET
+2025-05-01	15:46:31	fdcc5700-ee43-46a2-b744-58469a73c6ef	/favicon.ico	GET
+2025-05-01	15:47:36	e94b55a6-6fc2-49a3-a1b4-8aa627e5e267	/new-page.html	GET
